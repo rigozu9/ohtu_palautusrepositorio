@@ -1,2 +1,2 @@
 OHTU palautusrepo
-[GitHub Repository](https://github.com/rigozu9/ohtuvarasto)
+[2-13 tehtävien ohtuvarasto repoon linkki](https://github.com/rigozu9/ohtuvarasto)
