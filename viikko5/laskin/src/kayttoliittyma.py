@@ -25,6 +25,7 @@ class Erotus:
     def suorita(self):
         self.io.miinus(self.arvo())
 
+
 class Nollaus:
     def __init__(self, io, arvo):
         self.io = io
@@ -35,12 +36,12 @@ class Nollaus:
 
 
 class Kumoa:
-    def __init__(self, io, arvo):
+    def __init__(self, io):
         self.io = io
-        self.arvo = arvo
 
     def suorita(self):
-        pass
+        self.io.kumoa()
+
 
 class Kayttoliittyma:
     def __init__(self, sovelluslogiikka, root):
@@ -51,7 +52,7 @@ class Kayttoliittyma:
             Komento.SUMMA: Summa(sovelluslogiikka, self._lue_syote),
             Komento.EROTUS: Erotus(sovelluslogiikka, self._lue_syote),
             Komento.NOLLAUS: Nollaus(sovelluslogiikka, self._lue_syote),
-            Komento.KUMOA: Kumoa(sovelluslogiikka, self._lue_syote) # ei ehkä tarvita täällä...
+            Komento.KUMOA: Kumoa(sovelluslogiikka)
         }
 
     def kaynnista(self):
