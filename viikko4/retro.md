@@ -2,3 +2,4 @@ Start, Stop, Continue, More of, Less of Wheel tekniikassa selvitetään tiimin k
 
 Glad, Sad, Mad tekniikassa jaetaan ryhmän jäsenten havaintoja aikaisemmasta sprintistä kolmeen kategoriaan glad, sad tai mad. Sitten äänestetään havaintoja, jonka perusteella ne käydään läpi eli eniten ääniä omaava havainto käydään ensiksi ja sitten toiseksi. Tätä tehdään niin kauan kuin havainnot loppuu tai aika, joka on noin 60 minuuttia. Kun havaintoja käydään läpi niistä keskustellaan ja yritetään keksiä keinoja miten niitä voisi parantaa. 
 
+retro
