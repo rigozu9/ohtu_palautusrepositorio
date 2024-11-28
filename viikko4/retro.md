@@ -1,0 +1,4 @@
+Start, Stop, Continue, More of, Less of Wheel tekniikassa selvitetään tiimin kesken mitä halutaan alkaa tekemään, mitä tekemisiä pitäisi lopettaa, mitä halutaan jatkaa, mitä pitäisi tehdä enemmä, mitä pitäisi tehdä vähemmän. Tähän tarvitaan kynä ja paperia. Piirretään ympyrä ja jaetaan se ympyrä näihin kategorioihin ja sitten käydään tiimin kesken läpi mitä laitetaan mihinkin kategoriaan. Tämä ketsää 10-25 minmuuttia riippuen tiimin koosta.
+
+Glad, Sad, Mad tekniikassa jaetaan ryhmän jäsenten havaintoja aikaisemmasta sprintistä kolmeen kategoriaan glad, sad tai mad. Sitten äänestetään havaintoja, jonka perusteella ne käydään läpi eli eniten ääniä omaava havainto käydään ensiksi ja sitten toiseksi. Tätä tehdään niin kauan kuin havainnot loppuu tai aika, joka on noin 60 minuuttia. Kun havaintoja käydään läpi niistä keskustellaan ja yritetään keksiä keinoja miten niitä voisi parantaa. 
+
